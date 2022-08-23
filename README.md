@@ -1,2 +1,3 @@
 # hola-mundo
-Mi primer repositorio
+
+Mi primer projecto de git
